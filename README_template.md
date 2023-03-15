@@ -1,10 +1,17 @@
 # A chromatin-based regulator of RNA Polymerase III assembly at tRNA genes revealed by locus-specific proteomics
 
 
-### Maria Elize van Breugel <sup>1</sup>, Ila van Kruijsbergen <sup>1</sup>, Chitvan Mittal <sup>2</sup>, Cor Lieftink <sup>3</sup>, Ineke Brouwer <sup>1</sup>, Teun van den Brand <sup>1</sup>, Roel Kluin <sup>4</sup>, Renée Menezes <sup>5</sup>, Tibor van Welsem <sup>1</sup>, Andrea Del Cortona <sup>6</sup>, Muddassir Malik <sup>1</sup>, Tineke Lenstra <sup>1</sup>, Elzo de Wit <sup>1</sup>, Kevin Verstrepen <sup>6</sup>, B. Franklin Pugh <sup>7</sup>, Fred van Leeuwen1 <sup>1</sup>
+### Maria Elize van Breugel <sup>1</sup>, Ila van Kruijsbergen <sup>1</sup>, Chitvan Mittal <sup>2</sup>, Cor Lieftink <sup>3</sup>, Ineke Brouwer <sup>1</sup>, Teun van den Brand <sup>1</sup>, Roel Kluin <sup>4</sup>, Renée Menezes <sup>5</sup>, Tibor van Welsem <sup>1</sup>, Andrea Del Cortona <sup>6</sup>, Muddassir Malik <sup>1</sup>, Tineke Lenstra <sup>1</sup>, Elzo de Wit <sup>1</sup>, Kevin Verstrepen <sup>6</sup>, B. Franklin Pugh <sup>7</sup>, Fred van Leeuwen1 <sup>1</sup>,<sup>8</sup>
 
 
 <sup>1</sup>Division of Gene Regulation, Netherlands Cancer Institute, 1066CX Amsterdam, The Netherlands
+<sup>2</sup>Baker Institute for Animal Health, College of Veterinary Medicine, Cornell University, Ithaca, NY 14853, USA
+<sup>3</sup>High Throughput Screening Facility, Netherlands Cancer Institute, 1066CX Amsterdam, The Netherlands
+<sup>4</sup>Genomics Core Facility, Netherlands Cancer Institute, 1066CX Amsterdam, The Netherlands
+<sup>5</sup>Biostatistics Unit, Netherlands Cancer Institute, 1066CX Amsterdam, The Netherlands
+<sup>6</sup>Center for Microbiology, KU Leuven, 3001 Heverlee-Leuven, Gaston Geenslaan 1, Leuven, Belgium
+<sup>7</sup>Department of Molecular Biology and Genetics, Biotechnology Building, Cornell University, Ithaca, NY 14853, USA 
+<sup>8</sup>Department of Medical Biology, Amsterdam UMC, University of Amsterdam, Meibergdreef 9, 1105AZ Amsterdam, The Netherlands
 
 
 ### Correspondence: Fred van Leeuwen: fred.v.leeuwen@nki.nl
