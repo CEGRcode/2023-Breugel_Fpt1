@@ -1,7 +1,7 @@
 # A chromatin-based regulator of RNA Polymerase III assembly at tRNA genes revealed by locus-specific proteomics
 
 
-### Maria Elize van Breugel <sup>1</sup>, Ila van Kruijsbergen <sup>1</sup>, Chitvan Mittal <sup>2</sup>,<sup>7</sup>, Cor Lieftink <sup>3</sup>, Ineke Brouwer <sup>1</sup>, Teun van den Brand <sup>1</sup>, Roel Kluin <sup>4</sup>, Renée Menezes <sup>5</sup>, Tibor van Welsem <sup>1</sup>, Andrea Del Cortona <sup>6</sup>, Muddassir Malik <sup>1</sup>, Tineke Lenstra <sup>1</sup>, Elzo de Wit <sup>1</sup>, Kevin Verstrepen <sup>6</sup>, B. Franklin Pugh <sup>7</sup>, Fred van Leeuwen1 <sup>1</sup>,<sup>8</sup>
+### Maria Elize van Breugel <sup>1</sup>, Ila van Kruijsbergen <sup>1</sup>, Chitvan Mittal <sup>2,7</sup>, Cor Lieftink <sup>3</sup>, Ineke Brouwer <sup>1</sup>, Teun van den Brand <sup>1</sup>, Roel Kluin <sup>4</sup>, Renée Menezes <sup>5</sup>, Tibor van Welsem <sup>1</sup>, Andrea Del Cortona <sup>6</sup>, Muddassir Malik <sup>1</sup>, Tineke Lenstra <sup>1</sup>, Elzo de Wit <sup>1</sup>, Kevin Verstrepen <sup>6</sup>, B. Franklin Pugh <sup>7</sup>, Fred van Leeuwen1 <sup>1,8*</sup>
 
 
 <sup>1</sup>Division of Gene Regulation, Netherlands Cancer Institute, 1066CX Amsterdam, The Netherlands
