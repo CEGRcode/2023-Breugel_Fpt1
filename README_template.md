@@ -1,7 +1,7 @@
 # A chromatin-based regulator of RNA Polymerase III assembly at tRNA genes revealed by locus-specific proteomics
 
 
-### Maria Elize van Breugel, Ila van Kruijsbergen1, Chitvan Mittal2, Cor Lieftink3, Ineke Brouwer1, Teun van den Brand1, Roel Kluin4, Renée Menezes5, Tibor van Welsem1, Andrea Del Cortona6, Muddassir Malik1, Tineke Lenstra1, Elzo de Wit1, Kevin Verstrepen6, B. Franklin Pugh7, Fred van Leeuwen1,8*
+### Maria Elize van Breugel <sup>1</sup>, Ila van Kruijsbergen <sup>1</sup>, Chitvan Mittal <sup>2</sup>, Cor Lieftink <sup>3</sup>, Ineke Brouwer <sup>1</sup>, Teun van den Brand <sup>1</sup>, Roel Kluin <sup>4</sup>, Renée Menezes <sup>5</sup>, Tibor van Welsem <sup>1</sup>, Andrea Del Cortona <sup>6</sup>, Muddassir Malik <sup>1</sup>, Tineke Lenstra <sup>1</sup>, Elzo de Wit <sup>1</sup>, Kevin Verstrepen <sup>6</sup>, B. Franklin Pugh <sup>7</sup>, Fred van Leeuwen1 <sup>1</sup>
 
 
 <sup>1</sup>Affiliation 1
