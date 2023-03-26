@@ -6,7 +6,7 @@ This directory includes the bash and PBS scripts for downloading and preprocessi
 The following scripts should be executed in numerical order. The user should update the working directory (`$WRK`) filepath variable within every script before executing.
 
 ### Download ScriptManager
-Make sure you download ScriptManager and move it to `/path/to/2023-Breugel_JournalXXXX/bin/`.
+Make sure you download ScriptManager and move it to `/path/to/2023-Breugel_Fpt1/bin/`.
 ```
 wget https://github.com/CEGRcode/scriptmanager/releases/download/v0.14/ScriptManager-v0.14.jar
 mv ScriptManager-v0.14.jar ../bin/
@@ -30,9 +30,9 @@ mv ChExMix_Peak_Filter_List_190612.bed ../data/
 ```
 
 ### 1_download_data.sh
-- the ScriptManager binary executable, saved to `2022-Mittal_SAGA/bin/`
-- the Master NoTag control sample (Rossi, 2021), saved to `2023-Breugel_JournalXXXX/data/BAM`
-- All ChIP-exo samples (`sample_ids.txt`), `*.fastq.gz` files saved to `2023-Breugel_JournalXXXX/data/FASTQ` while `*.bam` files saved to `2023-Breugel_JournalXXXX/data/BAM`
+- the ScriptManager binary executable, saved to `2023-Breugel_Fpt1/bin/`
+- the Master NoTag control sample (Rossi, 2021), saved to `2023-Breugel_Fpt1/data/BAM`
+- All ChIP-exo samples (`sample_ids.txt`), `*.fastq.gz` files saved to `2023-Breugel_Fpt1/data/FASTQ` while `*.bam` files saved to `2023-Breugel_JournalXXXX/data/BAM`
 
 ### 2_align_samples.pbs
 This PBS submission script uses the FASTQ files downloaded in `1_download_files.sh` to create BAM alignments using Hisat2. BAM alignments are sorted and indexed using samtools.
