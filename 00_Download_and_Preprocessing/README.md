@@ -32,7 +32,7 @@ mv ChExMix_Peak_Filter_List_190612.bed ../data/
 ### 1_download_data.sh
 - the ScriptManager binary executable, saved to `2023-Breugel_Fpt1/bin/`
 - the Master NoTag control sample (Rossi, 2021), saved to `2023-Breugel_Fpt1/data/BAM`
-- All ChIP-exo samples (`sample_ids.txt`), `*.fastq.gz` files saved to `2023-Breugel_Fpt1/data/FASTQ` while `*.bam` files saved to `2023-Breugel_JournalXXXX/data/BAM`
+- All ChIP-exo samples (`sample_ids.txt`), `*.fastq.gz` files saved to `2023-Breugel_Fpt1/data/FASTQ` while `*.bam` files saved to `2023-Breugel_Fpt1/data/BAM`
 
 ### 2_align_samples.pbs
 This PBS submission script uses the FASTQ files downloaded in `1_download_files.sh` to create BAM alignments using Hisat2. BAM alignments are sorted and indexed using samtools.
