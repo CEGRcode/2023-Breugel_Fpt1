@@ -30,10 +30,18 @@ mv ChExMix_Peak_Filter_List_190612.bed ../data/
 ```
 
 ### 1_download_data.sh
-Describe how to run scripts or direct download data.
+- the ScriptManager binary executable, saved to `2022-Mittal_SAGA/bin/`
+- the Master NoTag control sample (Rossi, 2021), saved to `2023-Breugel_JournalXXXX/data/BAM`
+- All ChIP-exo samples (`sample_ids.txt`), `*.fastq.gz` files saved to `2023-Breugel_JournalXXXX/data/FASTQ` while `*.bam` files saved to `2023-Breugel_JournalXXXX/data/BAM`
 
 ### 2_align_samples.pbs
-Describe how to align data or use scripts saved here to align data.
+This PBS submission script uses the FASTQ files downloaded in `1_download_files.sh` to create BAM alignments using Hisat2. BAM alignments are sorted and indexed using samtools.
+
+This submission script is compatible with systems running the PBS scheduler.
+
+Update file path and allocation name using your favorite text editor, then run:
+```
+qsub 2_align_rna_samples.pbs
 
 ### 3_normalize_samples.sh
 Calculate scaling factor for every ChIP-exo sample and save the files to `data/NormalizationFactors/XXXX_ScalingFactors.out`.
