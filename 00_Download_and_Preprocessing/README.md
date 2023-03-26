@@ -36,4 +36,5 @@ Describe how to run scripts or direct download data.
 Describe how to align data or use scripts saved here to align data.
 
 ### 3_normalize_samples.sh
-Describe how to calculate normalization factors for your align data. (need notag BAM and blacklist BED to run)
+Calculate scaling factor for every ChIP-exo sample and save the files to `data/NormalizationFactors/XXXX_ScalingFactors.out`.
+- ChIP-exo samples: use ScriptManager's implementation of the NCIS (Liang & Keles 2012, *BMC Bioinformatics*))
