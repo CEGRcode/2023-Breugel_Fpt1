@@ -6,7 +6,7 @@ This directory includes the bash and PBS scripts for downloading and preprocessi
 The following scripts should be executed in numerical order. The user should update the working directory (`$WRK`) filepath variable within every script before executing.
 
 ### Download ScriptManager
-Make sure you download ScriptManager and move it to `/path/to/20XX-LastName_Journal/bin/`.
+Make sure you download ScriptManager and move it to `/path/to/2023-Breugel_JournalXXXX/bin/`.
 ```
 wget https://github.com/CEGRcode/scriptmanager/releases/download/v0.14/ScriptManager-v0.14.jar
 mv ScriptManager-v0.14.jar ../bin/
